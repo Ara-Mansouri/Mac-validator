@@ -1,1 +1,1 @@
-A Mac-validator which can recognize the Mac address in the six pairs of the characters separated with a hyphen (-) or colon(:) form or in the three groups of four hexadecimal digits separated by dots form.
+A Mac-validator which can recognize the Mac address in six pairs of the characters separated with a hyphen (-) or colon(:) form or in the three groups of four hexadecimal digits separated by dots form.
